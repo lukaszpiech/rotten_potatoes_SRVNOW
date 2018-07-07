@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>title,genre</col_name_string>
+        <index_col_name>ddaea45b374753005d19dcc773990e14,d72f28db374753005d19dcc773990ebb</index_col_name>
+        <logical_table_name>x_236046_rp_games</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-07 07:47:50</sys_created_on>
+        <sys_id>0f957cdf374753005d19dcc773990e5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_236046_rp_games</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_236046_rp">1c9ee89b374753005d19dcc773990e79</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">1c9ee89b374753005d19dcc773990e79</sys_scope>
+        <sys_update_name>sys_index_x_236046_rp_games_title_genre</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-07 07:47:50</sys_updated_on>
+        <table display_value="Games" name="x_236046_rp_games">5c9ee89b374753005d19dcc773990e79</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

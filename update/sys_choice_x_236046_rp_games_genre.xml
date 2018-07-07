@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="genre" table="x_236046_rp_games" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FPS</label>
+            <language>en</language>
+            <name>x_236046_rp_games</name>
+            <sequence>0</sequence>
+            <sys_created_by>lukasz@lukaszpiech.pl</sys_created_by>
+            <sys_created_on>2018-07-07 07:21:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c9f201f374753005d19dcc773990e48</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lukasz@lukaszpiech.pl</sys_updated_by>
+            <sys_updated_on>2018-07-07 07:22:04</sys_updated_on>
+            <value>FPS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Puzzle</label>
+            <language>en</language>
+            <name>x_236046_rp_games</name>
+            <sequence>1</sequence>
+            <sys_created_by>lukasz@lukaszpiech.pl</sys_created_by>
+            <sys_created_on>2018-07-07 07:22:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ccf28db374753005d19dcc773990e93</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>lukasz@lukaszpiech.pl</sys_updated_by>
+            <sys_updated_on>2018-07-07 07:22:31</sys_updated_on>
+            <value>Puzzle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Racing</label>
+            <language>en</language>
+            <name>x_236046_rp_games</name>
+            <sequence>2</sequence>
+            <sys_created_by>lukasz@lukaszpiech.pl</sys_created_by>
+            <sys_created_on>2018-07-07 07:22:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06cf6cdb374753005d19dcc773990ea8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>lukasz@lukaszpiech.pl</sys_updated_by>
+            <sys_updated_on>2018-07-07 07:22:45</sys_updated_on>
+            <value>Racing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Role-Playing</label>
+            <language>en</language>
+            <name>x_236046_rp_games</name>
+            <sequence>3</sequence>
+            <sys_created_by>lukasz@lukaszpiech.pl</sys_created_by>
+            <sys_created_on>2018-07-07 07:22:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5df201f374753005d19dcc773990e4c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>lukasz@lukaszpiech.pl</sys_updated_by>
+            <sys_updated_on>2018-07-07 07:23:05</sys_updated_on>
+            <value>Role-Playing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>genre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sports</label>
+            <language>en</language>
+            <name>x_236046_rp_games</name>
+            <sequence>4</sequence>
+            <sys_created_by>lukasz@lukaszpiech.pl</sys_created_by>
+            <sys_created_on>2018-07-07 07:23:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9000bcdb374753005d19dcc773990e9b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>lukasz@lukaszpiech.pl</sys_updated_by>
+            <sys_updated_on>2018-07-07 07:23:59</sys_updated_on>
+            <value>Sports</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>genre</element>
+            <name>x_236046_rp_games</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>lukasz@lukaszpiech.pl</sys_created_by>
+            <sys_created_on>2018-07-07 07:21:56</sys_created_on>
+            <sys_id>a7af601f374753005d19dcc773990e2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>genre</sys_name>
+            <sys_package display_value="Rotten Potatoes" source="x_236046_rp">1c9ee89b374753005d19dcc773990e79</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rotten Potatoes">1c9ee89b374753005d19dcc773990e79</sys_scope>
+            <sys_update_name>sys_choice_x_236046_rp_games_genre</sys_update_name>
+            <sys_updated_by>lukasz@lukaszpiech.pl</sys_updated_by>
+            <sys_updated_on>2018-07-07 07:21:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
