@@ -4,7 +4,7 @@
         <element label="Comments" max_length="1000" name="comments" type="string"/>
         <element label="Game" max_length="32" name="game" reference="x_236046_rp_games" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Reviewer" max_length="32" name="reviewer" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Reviewer" max_length="32" name="reviewer" reference="sys_user" type="reference"/>
         <element default="javascript:gs.now()" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="Review Date" max_length="40" name="review_date" type="glide_date" use_dynamic_default="true"/>
         <element choice="1" label="Stars" max_length="40" name="stars" type="choice">
             <choice>
